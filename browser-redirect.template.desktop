@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+NoDisplay=true
+Name=Browser Redirect
+Comment=Open certain URLs in certain browsers
+Icon=browser-redirect
+Categories=Network;WebBrowser;
+MimeType=x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+Exec=€ExecCommand€
